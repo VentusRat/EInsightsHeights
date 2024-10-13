@@ -1,5 +1,5 @@
-# EInsightsHeights
-For the Heights Crew!
+# Exam Insights Unblocker Heights
+For the Heights Crew! Only works with difficulty filter for the moment, sorry!
 
 # Tutorial
 To make this work do the following:
